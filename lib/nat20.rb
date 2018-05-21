@@ -21,10 +21,10 @@ class Nat20
     end
   end
 
-  def self.roll_multiple roll_array #eg input ['1d6+4', 5]
+  def self.roll_multiple dice_info, num_times #eg input '1d6+4', 5
     output = []
-    roll_array[1].times do
-      roll = self.roll roll_array[0]
+    num_times.times do
+      roll = self.roll dice_info
       output << roll
     end
     output
