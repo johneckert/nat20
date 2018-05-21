@@ -9,7 +9,6 @@ class Nat20
 
     num_dice.times do
       actual_roll = 1 + rand(num_sides)
-      puts actual_roll
       rolls << actual_roll
     end
 
