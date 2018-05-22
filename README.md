@@ -22,11 +22,13 @@ For a single roll use Nat20.roll
 
 Usage Example:
 
-`Nat20.roll '2d6+3'
+```
+Nat20.roll '2d6+3'
 => 10
 
 Nat20.roll '2d6+3', true
-=> [3,4]`
+=> [3,4]
+```
 
 For multiple rolls use Nat20.roll_multiple
 
@@ -42,3 +44,7 @@ To contribute to Nat20, clone this repo locally and commit your code on a separa
 
 Nat20 is licensed under the MIT license.
 Copyright © 2018, John Eckert
+
+```
+
+```
