@@ -1,9 +1,6 @@
 # Nat20
 
 ![Build Status](https://img.shields.io/travis/johneckert/nat20.svg?style=plastic)
-
-![Gem](https://img.shields.io/gem/v/nat20.svg?style=plastic)
-
 ![DUB](https://img.shields.io/dub/l/vibe-d.svg?style=plastic)
 
 ## Description
