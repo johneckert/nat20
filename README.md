@@ -5,7 +5,8 @@
 
 ## Description
 
-![Find on RubyGems](https://rubygems.org/gems/nat20)
+[RubyGems Page](https://rubygems.org/gems/nat20)
+
 Nat20 adds easy to use dice rolling functionality with input in the style of table top role playing games. It provides functionality for single and multiple rolls and can return either an array of dice values or total roll.
 
 ## Requirements
