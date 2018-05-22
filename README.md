@@ -1,6 +1,5 @@
 # Nat20
 
-[![Travis](https://img.shields.io/travis/USER/REPO.svg?style=plastic)](https://github.com/johneckert/nat20)
 ![Build Status](https://img.shields.io/travis/johneckert/nat20.svg?style=plastic)
 ![Tests Passing](https://img.shields.io/appveyor/tests/johneckert/nat20.svg?style=plastic)
 ![DUB](https://img.shields.io/dub/l/vibe-d.svg?style=plastic)
