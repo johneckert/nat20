@@ -1,10 +1,11 @@
 # Nat20
 
-[![Gem Version](https://img.shields.io/gem/v/nat20.svg?style=plastic)]
-[![Build Status](https://img.shields.io/travis/johneckert/nat20.svg?style=plastic)]
-[![Tests Passing](https://img.shields.io/appveyor/tests/johneckert/nat20.svg?style=plastic)]
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)]
-[![Twitter Follow](https://img.shields.io/twitter/follow/johneckert.svg?style=plastic&label=Follow)]
+[![Travis](https://img.shields.io/travis/USER/REPO.svg?style=plastic)](https://github.com/johneckert/nat20)
+
+![Build Status](https://img.shields.io/travis/johneckert/nat20.svg?style=plastic)
+![Tests Passing](https://img.shields.io/appveyor/tests/johneckert/nat20.svg?style=plastic)
+![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)
+![Twitter Follow](https://img.shields.io/twitter/follow/johneckert.svg?style=plastic&label=Follow)
 
 ## Description
 
