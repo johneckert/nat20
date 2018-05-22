@@ -26,8 +26,8 @@ Usage Example:
 Nat20.roll '2d6+3'
 => 10
 
-Nat20.roll '2d6+3', true
-=> [3,4]
+Nat20.roll '2d6-3', true
+=> [3, 4, -3]
 ```
 
 For multiple rolls use Nat20.roll_multiple
