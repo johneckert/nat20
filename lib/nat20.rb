@@ -13,7 +13,8 @@ class Nat20
     end
 
     if return_arr
-      return rolls
+      rolls
+      return rolls << modifier
     else
       sum = 0
       rolls.each {|roll| sum += roll}

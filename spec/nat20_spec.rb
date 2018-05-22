@@ -17,6 +17,11 @@ RSpec.describe Nat20 do
       expect(die).to be_a_kind_of(Array)
     end
 
+    it 'when returning array last value is equal to modifier' do
+      die = Nat20.roll('3d6-1', true)
+      expect(die.last).to be(-1)
+    end
+
     it 'accepts positive modifier' do
       die = Nat20.roll('2d4+7', false)
       expect(die).to be_between(9, 15)
